@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pallavigautam28
+- 👋 Hi, I’m PALLAVI.
 - 👀 I’m interested in web developer.
 - 🌱 I’m currently learning REACT.
 - 💞️ I’m looking to collaborate on Open Sources.
